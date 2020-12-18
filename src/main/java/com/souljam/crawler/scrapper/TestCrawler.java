@@ -13,7 +13,7 @@ import org.jsoup.select.Elements;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.souljam.domain.ScrapperVO;
+import com.souljam.crawler.domain.ScrapperVO;
 
 public class TestCrawler {
 	static Logger logger = LoggerFactory.getLogger(TestCrawler.class);

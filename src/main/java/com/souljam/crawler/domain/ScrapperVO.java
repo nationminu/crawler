@@ -1,4 +1,4 @@
-package com.souljam.domain;
+package com.souljam.crawler.domain;
 
 import java.io.Serializable;
 
